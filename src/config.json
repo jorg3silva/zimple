@@ -1,0 +1,20 @@
+{
+  "<<SUBJECT>>": "la",
+  "<<PRONOUN>>": "una",
+  "<<SEX>>": "a",
+  "<<MAESTRO_CLASS_NAME>>": "InitialSystemConfig",
+  "<<MAESTRO_CLASS_NAME_LOWER>>": "initialsystemconfig",
+  "<<MAESTRO_CLASS_NAME_UCFIRST>>": "Initialsystemconfig",
+  "<<MAESTRO_ES>>": "Configuración Inicial de Sistema",
+  "<<MAESTRO_ES_PLURAL>>": "Configuraciones Iniciales de Sistema",
+  "<<MAESTRO_EN>>": "initialsystemconfig",
+  "<<MAESTRO_EN_PLURAL>>": "initialsystemconfigs",
+  "<<DEVELOPER_AUTHOR>>": "Jorge Silva Aguilera jorge.silva@zentagroup.com",
+  "<<MAESTRO_MODEL_NAME>>": "CfgInitialSystemConfig",
+  "<<CONTROLLER_MODULE>>": "Administration",
+  "<<CONTROLLER_MODULE_CAPSOFF>>": "administration",
+  "<<VIEWS_FOLDER>>": "controllers/administration/cashbox/cashboxsection/",
+  "<<URL_BASE_CRUD>>": "administration/cashboxsections/",
+  "<<SIDEBAR_FOLDER>>": "sidebar_administration/",
+  "<<MODULE_COLOR>>":"ocean"
+}
